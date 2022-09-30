@@ -1,0 +1,16 @@
+{
+  "name": "sample-div",
+  "version": "1.0.0",
+  "description": "sample div",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample",
+    "div"
+  ],
+  "author": "Bobby Kim",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "sample-btn",
+  "version": "1.0.0",
+  "description": "sample button",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bobby Kim",
+  "license": "ISC"
+}
